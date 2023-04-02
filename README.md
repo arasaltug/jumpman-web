@@ -1,4 +1,4 @@
-Jumpman Shop is a shop that only sells jordan products..
+"Jumpman Shop" is a store that only sells jordan products..
 
 <a target="_blank" href="https://arasaltug-jumpman.netlify.app/">Live Demo</a>
 
